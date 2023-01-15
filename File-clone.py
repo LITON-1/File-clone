@@ -1,2 +1,2 @@
-from File import NOOB
-NOOB()
+from File import RMX
+RMX()
